@@ -1,0 +1,5 @@
+PassengerId,Survived,Pclass,Name,Sex
+1,0,3,Braund,male
+2,1,1,Cumings,female
+3,1,3,Heikkinen,female
+4,1,1,Futrelle,female
